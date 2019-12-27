@@ -26,3 +26,6 @@ Or use `git commit -m "<message>"`
 ## Merging
 
 Merging means to bring changes from one branch to another.
+
+- A Fast-forward merge happens when target branch was branched from current branch, and there are no new changes in current branch
+since then.
