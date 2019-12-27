@@ -8,7 +8,7 @@
   - git commit: commit changes from staging area to current branch
   - git config: Set or get configurations
   - git log: show a history (aka log) of a commits
-  - git checkout: Checkout branch and (update HEAD and apply changes to working directory). In Master branch.
+  - git checkout: Checkout branch and (update HEAD and apply changes to working directory)
   - git checkout -b: Create branch and then check it out
   - git branch -c : Crate a new branch
   - git branch: List branches
