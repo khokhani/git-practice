@@ -15,8 +15,9 @@
   - git stash: Stash changes from working directory
   - git stash list: List stashes
   - git stash pop: Apply stash changes to working directory
+  - git show: Shows single commit
+  - git diff: show difference between commits, the working directory and staging area
   - git merge: Merge changes from different branches
-
 
 ## What's a branch?
 A branch is a ref(rence) to a commit. When HEAD points to a branch we say we'r "on" that branch.
