@@ -22,3 +22,7 @@ Or use `git commit -m "<message>"`
 - First line should be clear, accurate, and concise
 - Use proper spelling, grammar, and punctuation
 - Don't end with `.`
+
+## Merging
+
+Merging means to bring changes from one branch to another.
