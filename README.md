@@ -8,8 +8,8 @@
   - git commit: commit changes from staging area to current branch
   - git config: Set or get configurations
   - git log: show a history of commits
-  - git checkout: Checkout branch and (update HEAD and apply changes to working directory)
-  
+  - git checkout: Checkout branch and (update HEAD and apply changes to working directory). In Master branch.
+
 ## commit messages
 
 Default editor is vi which can be changed
