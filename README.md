@@ -7,7 +7,7 @@
   - git add: Add changes from working directory to staging area
   - git commit: commit changes from staging area to current branch
   - git config: Set or get configurations
-  - git log: show a history of a (log of) commits
+  - git log: show a history (aka log) of a commits
   - git checkout: Checkout branch and (update HEAD and apply changes to working directory). In Master branch.
   - git merge: Merge changes from different branches
 
@@ -29,3 +29,5 @@ Merging means to bring changes from one branch to another.
 
 - A Fast-forward merge happens when target branch was branched from current branch, and there are no new changes in current branch
 since then.
+
+- An automatic merge happens when two histories have diverged, but git is able to reconcile them into one set of changes, and create a new commit on current branch. 
